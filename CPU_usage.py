@@ -1,5 +1,3 @@
-# a simple python code that lets you know if you're using too much CPU in text to speech
-
 import psutil
 import pyttsx3
 
